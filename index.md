@@ -14,7 +14,10 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-
+**测试以下是否支持公式**
+$$
+f=Ma
+$$
 - Bulleted
 - List
 
