@@ -29,7 +29,7 @@ Syntax highlighted code block
 $$
 f=Ma
 $$
-。。。
+。。。$f=Ma$
 - Bulleted
 - List
 
